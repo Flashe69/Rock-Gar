@@ -61,47 +61,64 @@
         <div class="container">
           <ul class="breadcrups">
             <li class="breadcrups__items"><a href="index.html">Home</a></li>
-            <li class="breadcrups__items"><a href="index-articles.html" class="active">Articles</a></li>
+            <li class="breadcrups__items"><a href="" class="active">Contacts</a></li>
           </ul>
         </div>
       </div>
-      <div class="articles">
+      <div class="contacts">
         <div class="container">
-          <h3 class="articles__header">Articles</h3>
-          <div class="articles_wrap clearfix">
-            <div class="articles__img"><img src="../img/img_send.jpg" alt="article img"></div>
-            <div class="articles__text">
-              <p class="caption">Rock Garnet 80 mesh</p>
-              <p class="date">9.09.2017</p>
-              <p class="first_line">Rock Garne 80 is used for both sandblasting and waterjet cutting. It is the most popular fraction, smoother cutting and more even edges than at 30/60, mainly used for cutting tiles, kevlar, marble, granite, stone, copper, aluminum alloy, and other precious metals.</p>
-              <p class="text">Rock Garne 80 is used for both sandblasting and waterjet cutting. It is the most popular fraction, smoother cutting and more even edges than at 30/60, mainly used for cutting tiles, kevlar, marble, granite, stone, copper, aluminum alloy, and other precious metals..<a href="index-article.html">More</a></p>
+          <h3 class="contacts__header">Contacts</h3>
+          <div class="map_wrapper">
+            <div id="map"></div>
+          </div>
+          <div class="contacts__address">
+            <div class="address__item">
+              <div class="address__caption">
+                <p>Head Office</p>
+              </div>
+              <div class="address__text">
+                <p class="country">Russia</p>
+                <p class="text">per. Chelieva, 13, lit. T, k.3 193239, St. Petersburg,</p>
+                <p class="text">Phone:<span class="phone">+7 812 703 12 64</span></p>
+                <p class="email">E-mail: info@rock-gar.net</p>
+              </div>
+            </div>
+            <div class="address__item">
+              <div class="address__caption">
+                <p>Dealer in Europe</p>
+              </div>
+              <div class="address__text">
+                <p class="country">Germany GmD GmbH</p>
+                <p class="text">Sandsstr. 13 50226 Frechen</p>
+                <p class="text">Phone:<span class="phone">+49 2234 205 020</span></p>
+                <p class="text">Fax:<span class="fax">+123 456 778 98</span></p>
+              </div>
+            </div>
+            <div class="address__item">
+              <div class="address__caption">
+                <p>Warehouse in Europe</p>
+              </div>
+              <div class="address__text">
+                <p class="country">Antwerpen, Belgium</p>
+                <p class="text">BE-Logistics Bell-Telephonelaan 3B 2440 Geel</p>
+                <p class="text">Phone:<span class="phone">+123 456 778 99</span></p>
+                <p class="text">Fax:<span class="fax">+123 456 778 98</span></p>
+              </div>
             </div>
           </div>
-          <div class="articles_wrap">
-            <div class="articles__img"><img src="../img/img_send.jpg" alt="article img"></div>
-            <div class="articles__text">
-              <p class="caption">Rock Garnet 80 mesh</p>
-              <p class="date">9.09.2017</p>
-              <p class="first_line">Rock Garne 80 is used for both sandblasting and waterjet cutting. It is the most popular fraction, smoother cutting and more even edges than at 30/60, mainly used for cutting tiles, kevlar, marble, granite, stone, copper, aluminum alloy, and other precious metals.</p>
-              <p class="text">Rock Garne 80 is used for both sandblasting and waterjet cutting. It is the most popular fraction, smoother cutting and more even edges than at 30/60, mainly used for cutting tiles, kevlar, marble, granite, stone, copper, aluminum alloy, and other precious metals..<a href="index-article.html">More</a></p>
-            </div>
-          </div>
-          <div class="articles_wrap">
-            <div class="articles__img"><img src="../img/img_send.jpg" alt="article img"></div>
-            <div class="articles__text">
-              <p class="caption">Rock Garnet 80 mesh</p>
-              <p class="date">9.09.2017</p>
-              <p class="first_line">Rock Garne 80 is used for both sandblasting and waterjet cutting. It is the most popular fraction, smoother cutting and more even edges than at 30/60, mainly used for cutting tiles, kevlar, marble, granite, stone, copper, aluminum alloy, and other precious metals.</p>
-              <p class="text">Rock Garne 80 is used for both sandblasting and waterjet cutting. It is the most popular fraction, smoother cutting and more even edges than at 30/60, mainly used for cutting tiles, kevlar, marble, granite, stone, copper, aluminum alloy, and other precious metals..<a href="index-article.html">More</a></p>
-            </div>
-          </div>
-          <div class="paginator"><span class="fa fa-angle-left arrow_left"></span>
-            <ul class="pager">
-              <li class="first"><a href="" class="buttons active_btn">1</a></li>
-              <li><a href="" class="buttons">2</a></li>
-              <li><a href="" class="buttons">3</a></li>
-              <li class="last"><a href="" class="buttons">4</a></li>
-            </ul><span class="fa fa-angle-right arrow_right"></span>
+          <div class="form_comment">
+            <h2 class="form_comment__heading">Our Feedback</h2>
+            <form class="form_data">
+              <div class="form_data__sideOne">
+                <input type="text" name="name" placeholder="Full name" required>
+                <input type="text" name="phone" placeholder="Phone number" required class="input-phone">
+                <input type="text" name="mail" placeholder="E-mail" required>
+              </div>
+              <div class="form_data__sideTwo">
+                <textarea placeholder="Comment" required></textarea>
+                <input type="submit" value="Send">
+              </div>
+            </form>
           </div>
         </div>
       </div>
@@ -139,5 +156,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
     <script src="https://use.fontawesome.com/89016b1f4b.js"></script>
     <script src="../js/common.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC3dj9spID8QoJkMzE2UQGULU-mRLe9iIA&amp;language=en&amp;callback=initMap" async defer></script>
   </body>
 </html>
