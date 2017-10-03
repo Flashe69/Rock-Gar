@@ -3,6 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="561cc781-e2b0-459e-a8c3-63eb1cd58a4a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.min.css" afterPath="$PROJECT_DIR$/css/main.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/common.min.js" afterPath="$PROJECT_DIR$/js/common.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_footer.html" afterPath="$PROJECT_DIR$/pages/base/_footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_header.html" afterPath="$PROJECT_DIR$/pages/base/_header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main-contacts.html" afterPath="$PROJECT_DIR$/pages/base/_main-contacts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main-product.html" afterPath="$PROJECT_DIR$/pages/base/_main-product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main.html" afterPath="$PROJECT_DIR$/pages/base/_main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main_article.html" afterPath="$PROJECT_DIR$/pages/base/_main_article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main_articles.html" afterPath="$PROJECT_DIR$/pages/base/_main_articles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/base/_main_catalog.html" afterPath="$PROJECT_DIR$/pages/base/_main_catalog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-article.html" afterPath="$PROJECT_DIR$/pages/index-article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-articles.html" afterPath="$PROJECT_DIR$/pages/index-articles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-contacts.html" afterPath="$PROJECT_DIR$/pages/index-contacts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-katalog.html" afterPath="$PROJECT_DIR$/pages/index-katalog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index-product.html" afterPath="$PROJECT_DIR$/pages/index-product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index.html" afterPath="$PROJECT_DIR$/pages/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_breadcrups_article.html" afterPath="$PROJECT_DIR$/pages/layout/_breadcrups_article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_breadcrups_articles.html" afterPath="$PROJECT_DIR$/pages/layout/_breadcrups_articles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_breadcrups_contacts.html" afterPath="$PROJECT_DIR$/pages/layout/_breadcrups_contacts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_breadcrups_katalog.html" afterPath="$PROJECT_DIR$/pages/layout/_breadcrups_katalog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_breadcrups_product.html" afterPath="$PROJECT_DIR$/pages/layout/_breadcrups_product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_product-slide.html" afterPath="$PROJECT_DIR$/pages/layout/_product-slide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/layout/_product.html" afterPath="$PROJECT_DIR$/pages/layout/_product.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,8 +48,8 @@
       <file leaf-file-name="main.min.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="4206" column="20" lean-forward="true" selection-start-line="4206" selection-start-column="20" selection-end-line="4206" selection-end-column="20" />
+            <state relative-caret-position="304">
+              <caret line="0" column="94126" lean-forward="false" selection-start-line="0" selection-start-column="94126" selection-end-line="0" selection-end-column="94126" />
               <folding />
             </state>
           </provider>
@@ -139,11 +162,13 @@
       <workItem from="1506863614741" duration="821000" />
       <workItem from="1506946355557" duration="554000" />
       <workItem from="1506982225531" duration="566000" />
+      <workItem from="1507040095445" duration="166000" />
+      <workItem from="1507049726483" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1941000" />
+    <option name="totallyTimeSpent" value="2118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="23" width="1622" height="779" extended-state="0" />
@@ -151,12 +176,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24984385" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -195,8 +220,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="4206" column="20" lean-forward="true" selection-start-line="4206" selection-start-column="20" selection-end-line="4206" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="0" column="94126" lean-forward="false" selection-start-line="0" selection-start-column="94126" selection-end-line="0" selection-end-column="94126" />
           <folding />
         </state>
       </provider>
